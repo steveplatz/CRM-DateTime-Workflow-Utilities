@@ -28,7 +28,7 @@ Custom workflow actions that deal with date and time values in Dynamics CRM 2011
 * ToDateTime
 * To UTC String
 
-CRM 2011 & 2013 - Go to Releases and choose the latest 1.x.x.x version from the right hand side.
+CRM 2011 & 2013 - Go to [Releases](https://github.com/jlattimer/CRM-DateTime-Workflow-Utilities/releases) and choose the latest 1.x.x.x version from the right hand side.
 
 *No warranty expressed or implied - use at your own risk!
 
