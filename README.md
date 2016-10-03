@@ -32,6 +32,6 @@ CRM 2011 & 2013 - Go to Releases and choose the latest 1.x.x.x version from the 
 
 *No warranty expressed or implied - use at your own risk!
 
-If you have ideas for new functionality, suggest them in the Issues area.
+If you have ideas for new functionality, suggest them in the [Issues](https://github.com/jlattimer/CRM-DateTime-Workflow-Utilities/issues) area.
 
 Feel free to [donate](https://paypal.me/JLattimer) if this saved you some time or helped out :)
