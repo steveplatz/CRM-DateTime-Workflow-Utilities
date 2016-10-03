@@ -12,6 +12,9 @@ Custom workflow actions that deal with date and time values in Dynamics CRM 2011
 * Date Difference Minutes
 * Date Difference Months
 * Date Difference Years
+* Get Day Number
+* Get Month Number
+* Get Year Number
 * Get Day Number Of Week
 * Get Day Number Of Year
 * Get Day Of Week
