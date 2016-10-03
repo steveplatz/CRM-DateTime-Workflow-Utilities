@@ -109,7 +109,6 @@
     <Compile Include="ToUTCString.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="LATKey.snk" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
