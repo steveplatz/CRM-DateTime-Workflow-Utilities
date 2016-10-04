@@ -1,4 +1,4 @@
-# CRM-DateTime-Workflow-Utilities
+# CRM DateTime Workflow Utilities
 Custom workflow actions that deal with date and time values in Dynamics CRM 2011, 2013, 2015, & 2016
 
 * Add Business Days
