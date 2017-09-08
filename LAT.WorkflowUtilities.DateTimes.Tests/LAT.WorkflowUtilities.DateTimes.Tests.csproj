@@ -122,6 +122,7 @@
     </Compile>
     <Compile Include="RelativeTimeTests.cs" />
     <Compile Include="ToDateTimeTests.cs" />
+    <Compile Include="ToStringTests.cs" />
     <Compile Include="ToUTCStringTests.cs" />
   </ItemGroup>
   <ItemGroup>
