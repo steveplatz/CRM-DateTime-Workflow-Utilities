@@ -53,7 +53,7 @@ namespace LAT.WorkflowUtilities.DateTimes.Tests
             };
 
             //Expected value
-            const string expected = "7/3/2014 1:48:00 PM";
+            const string expected = "7/3/2014 12:48:00 PM";
 
             //Invoke the workflow
             var output = InvokeWorkflow(_namespaceClassAssembly, ref targetEntity, inputs, null);
@@ -76,7 +76,7 @@ namespace LAT.WorkflowUtilities.DateTimes.Tests
             };
 
             //Expected value
-            const string expected = "7/3/2014 1:48:00 PM";
+            const string expected = "7/3/2014 12:48:00 PM";
 
             //Invoke the workflow
             var output = InvokeWorkflow(_namespaceClassAssembly, ref targetEntity, inputs, null);
@@ -99,7 +99,7 @@ namespace LAT.WorkflowUtilities.DateTimes.Tests
             };
 
             //Expected value
-            const string expected = "2014/07/03 13:48:00";
+            const string expected = "2014/07/03 12:48:00";
 
             //Invoke the workflow
             var output = InvokeWorkflow(_namespaceClassAssembly, ref targetEntity, inputs, null);
